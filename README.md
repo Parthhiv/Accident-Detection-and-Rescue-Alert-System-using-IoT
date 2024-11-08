@@ -33,7 +33,7 @@ _Note: Install the respective libraries given in `GISMO6-Docs/Introduction.pptx`
 
 _Note: Serial Monitor should be set to 115200 baud for serial messages._
 
-![Arduino Setup](./Assets/arduino5804.jpeg)
+![Arduino Setup](./Assets/arduino5804.jpg)
 
 ### Phase 4: Importing `.aia` file in Kodular
 
