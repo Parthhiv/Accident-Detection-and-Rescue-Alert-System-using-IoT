@@ -4,7 +4,6 @@
 
 This repository contains the program and the project files that can be used to deploy the Motorcycle Crash Detection and Alert System using IoT. It uses a GISMO-VI ESP-32 microcontroller paired with the MPU6050 accelerometer to detect a crash, Firebase to store the data related to crash and emergency contacts, and an Android app designed using Kodular to send the crash alert as well as allow user to edit their details.
 
-_Note: This is an updated public fork of an existing repository which was made private due to a security vulnerability._
 
 ## Developer Usage
 
